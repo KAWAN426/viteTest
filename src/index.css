@@ -1,0 +1,69 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap");
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+* {
+  font-family: "Noto Sans KR", sans-serif;
+  background-color: initial;
+  color: #d3e9ea;
+  margin: 0px;
+  padding: 0px;
+  border: none;
+  outline: none;
+  text-decoration: none;
+}
+
+div {
+  display: flex;
+}
+
+img {
+  border-radius: 1000px;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  /* Title */
+  font-size: 20px;
+}
+h2 {
+  /* Logo Text */
+  font-size: 18px;
+}
+h3 {
+  /* Semi Title */
+  font-size: 16px;
+}
+h4 {
+  /* Icon Text */
+  font-size: 14px;
+}
+h5 {
+  /* Information Text */
+  font-size: 12px;
+}
+h6 {
+  /* Tag Text */
+  font-size: 10px;
+}
+
+/* DBE2EF : Dark */
+/* DBE2EF : Background */
+/* D3E9EA : Bright */
+/* EE6C4D : Point */
